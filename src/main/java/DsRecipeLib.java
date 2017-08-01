@@ -279,7 +279,6 @@ public class DsRecipeLib {
 		} else {
 			result = null;
 		}
-        System.out.println(result);
 		return result;
 	}
 
